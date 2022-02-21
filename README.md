@@ -2,7 +2,7 @@
 ## Hi there👋 , I'm Ali or Yigit or AYOGUN as known by some 
 
 <p align="center">
-🔭I’m currently working on Fullstack Development</br></br>🌱 I’m learning React and Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer trainee at [42-Heilbronn](https://www.42heilbronn.de/en/)
+🔭I’m currently working on Fullstack Development</br></br>🌱 I’m learning React and Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer trainee at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a>
 </p>
 
 
