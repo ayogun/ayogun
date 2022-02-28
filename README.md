@@ -2,8 +2,8 @@
 ## Hi there👋 , I'm Ali or Yigit or AYOGUN as known by some 
 
 <p align="center">
-🔭I’m currently working on Fullstack Development</br></br>🌱 I’m learning React and Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a>
-I am participating Bootcam Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
+🔭I’m currently working on Fullstack Development</br></br>🌱 I’m learning React and Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a></br>
+Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 </p>
 
 
