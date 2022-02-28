@@ -3,7 +3,7 @@
 
 <p align="center">
 🔭I’m currently working on Fullstack Development</br></br>🌱 I’m learning React and Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a></br></br>
-Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
+🚀Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 </p>
 
 
