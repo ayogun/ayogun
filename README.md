@@ -1,5 +1,5 @@
 
-## Hi there👋 , I'm Ali Yigit Ogun or AYOGUN as known by some 
+## Hi there👋 , I'm Ali Yigit Ogun
 
 <p align="center">
 🔭I’m currently studying on 42 Curriculum</br></br>🌱 I’m learning Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a></br></br>
