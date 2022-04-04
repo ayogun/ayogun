@@ -2,7 +2,7 @@
 ## Hi there👋 , I'm Ali Yigit Ogun or "yogun" or "ayogun" 
 
 <p align="center">
-🔭I’m currently studying on 42 Curriculum</br></br>🌱 I’m learning Amazon Web Services</br></br>👨‍💻 I'm currently currently software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a></br></br>
+⚙️BS Mechanical Engineer</br></br>☁️ AwS Cloud Practitioner</br></br>👨‍💻 Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a></br></br>
 🚀Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a></br></br>
 <a href="https://emoji.gg/emoji/8708-aws"><img vertical-align="2px" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
 </p>
