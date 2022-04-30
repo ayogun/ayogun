@@ -10,7 +10,7 @@
 
 <p align="center">
  <a target="_blank" href="https://github.com/byaliego"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a target="_blank" href="https://www.hackerrank.com/yigitogun"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a target="_blank" href="https://www.hackerrank.com/ayogun"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a target="_blank" href="https://medium.com/@ayogun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/ayogun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
  <a target="_blank" href="mailto:yigitogun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
