@@ -1,5 +1,5 @@
 
-## Hi there👋 , I'm Ali Yigit Ogun aka yogun
+## Hi there👋 , I'm Ali Yigit Ogun (aka yogun)
 
 <p align="center">
 ⚙️BS Mechanical Engineer</br></br>☁️ AWS Cloud Practitioner</br></br>👨‍💻 Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b></br></br>
