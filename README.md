@@ -4,7 +4,7 @@
 <p align="center">
 ⚙️BS Mechanical Engineer</br></br>☁️ AWS Cloud Practitioner</br></br>👨‍💻 Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b></br></br>
 🚀Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a></br></br>
-<a href="https://emoji.gg/emoji/8708-aws"><img vertical-align="2px" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
+<img align="absmiddle" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
 </p>
 
 
