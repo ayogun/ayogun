@@ -21,20 +21,21 @@
 
 |Html|Css|C|C#|Javascript|React|Redux|AWS
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 100px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">|<img style="width: 100px" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max">
+|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 300px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">|<img style="width: 100px" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max">
 
 |.NET|Bootstrap|SQL|Git|Github|VS Code|Python|Docker
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">|<img style="width: 100px" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=6c09b9521b8r2almq2m8f5noc396mgddyom161xj91bbsf0l&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 100px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">
+|<img style="width: 400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">|<img style="width: 100px" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=6c09b9521b8r2almq2m8f5noc396mgddyom161xj91bbsf0l&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 100px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">
 
 
 
-
-<span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=byaliego&show_icons=true&locale=en" alt="furkanlebit7" /></span>
+<p align="center">
+<img align="absmiddle" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=byaliego&show_icons=true&locale=en" />
 <br/>
-<span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=byaliego&" alt="byaliego" /></span>
+<img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=byaliego&" alt="byaliego" />
 <br/>
-<span><img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=byaliego&show_icons=true&locale=en&layout=compact" alt="byaliego" /></span>
+<img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=byaliego&show_icons=true&locale=en&layout=compact" alt="byaliego" />
+ </p> 
  
 
 
