@@ -30,11 +30,11 @@
 
 
 <p align="center">
-<img align="absmiddle" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=byaliego&show_icons=true&locale=en" />
-<br/>
+  <span>
+<img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=byaliego&show_icons=true&locale=en" />
+
 <img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=byaliego&" alt="byaliego" />
-<br/>
-<img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=byaliego&show_icons=true&locale=en&layout=compact" alt="byaliego" />
+  </span>
  </p> 
  
 
