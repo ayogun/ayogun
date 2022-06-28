@@ -1,22 +1,35 @@
 
-## Hi there👋 , I'm Ali Yigit Ogun (intra: yogun)
-
-<p align="center">
-⚙️BS Mechanical Engineer</br></br>☁️ AWS Cloud Practitioner</br></br>👨‍💻 Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b></br></br>
-🚀Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a></br></br>
-<img align="absmiddle" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
-</p>
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
-<p align="center">
+This is the place where I backup my projects and break some stuff :rofl:
+- ⚙️&nbsp;BS Mechanical Engineer
+- ☁️&nbsp;AWS Cloud Practitioner
+- 👨‍💻&nbsp;Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
+- 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
+- 🌱 &nbsp;Rigorously participating [DevOps Engineering Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
+- <img align="absmiddle" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
+
+
+
+<p>
+<a href="https://www.linkedin.com/in/yigitaliogun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byaliego/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byaliego" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yigitaliogun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byaliego/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byaliego" height="30" width="40" /></a>
+
   <a target="_blank" href="https://www.hackerrank.com/ayogun"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a target="_blank" href="https://medium.com/@ayogun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/yigitaliogun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
  <a target="_blank" href="mailto:yigitogun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a target="_blank" href="https://twitter.com/otigiy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   </p>
+</br>
 
+📕 &nbsp;**Latest Blog Posts**
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</br>
 ## Languages & Tools 💪
 
 |Html|Css|C|C#|Javascript|Bash|Kubernetes| AWS 
@@ -33,12 +46,4 @@
 |<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">|<img style="width: 100px" src="https://maven.apache.org/images/maven-logo-white-on-black.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 100px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png">|<img style="width: 100px" src="https://projects.task.gda.pl/uploads/-/system/project/avatar/321/grafana_logo.png">|<img style="width: 100px" src="https://helm.sh/img/helm.svg">|<img style="width: 100px" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/hashicorp-terraform.png?itok=V4FTAS7g">
 
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started With Kubernetes](https://medium.com/@ayogun/getting-started-with-kubernetes-3146ff7df975?source=rss-eda7d7339636------2)
-- [Vagrant in a Nutshell](https://medium.com/@ayogun/vagrant-in-a-nutshell-27efdf0dba2a?source=rss-eda7d7339636------2)
-- [Why You Should Learn C/C++ in 2022?](https://medium.com/@ayogun/why-you-should-learn-c-c-in-2022-abd3e7680d3?source=rss-eda7d7339636------2)
-- [AWS S3–5 Simple Performance Tips](https://medium.com/@ayogun/aws-s3-six-performance-tips-d34a8a64ea8d?source=rss-eda7d7339636------2)
-- [Bitwise Operators](https://medium.com/@ayogun/bitwise-operators-845cefc7fd0?source=rss-eda7d7339636------2)
-<!-- BLOG-POST-LIST:END -->
