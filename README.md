@@ -36,4 +36,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Kubernetes](https://medium.com/@ayogun/getting-started-with-kubernetes-3146ff7df975?source=rss-eda7d7339636------2)
+- [Vagrant in a Nutshell](https://medium.com/@ayogun/vagrant-in-a-nutshell-27efdf0dba2a?source=rss-eda7d7339636------2)
+- [Why You Should Learn C/C++ in 2022?](https://medium.com/@ayogun/why-you-should-learn-c-c-in-2022-abd3e7680d3?source=rss-eda7d7339636------2)
+- [AWS S3–5 Simple Performance Tips](https://medium.com/@ayogun/aws-s3-six-performance-tips-d34a8a64ea8d?source=rss-eda7d7339636------2)
+- [Bitwise Operators](https://medium.com/@ayogun/bitwise-operators-845cefc7fd0?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
