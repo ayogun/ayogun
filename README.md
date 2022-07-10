@@ -60,7 +60,7 @@ This is the place where I backup my projects and break some stuff down :rofl:
   <br/>
 
 <details>
-  ## <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework Stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework Stats</b></summary>
   <br/>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=byaliego">
   </details>
