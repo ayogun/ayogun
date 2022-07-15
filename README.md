@@ -2,7 +2,7 @@
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
-This is the place where I backup my projects and break some stuff down :rofl:
+This is the place where I backup my projects and break some stuff down :bowtie:
 - ⚙️&nbsp;BS Mechanical Engineer
 - ☁️&nbsp;AWS Cloud Practitioner
 - 👨‍💻&nbsp;Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
