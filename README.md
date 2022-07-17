@@ -7,7 +7,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 - ☁️&nbsp;AWS Cloud Practitioner
 - 👨‍💻&nbsp;Currently cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
 - 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
-- 🌱 &nbsp;Rigorously participating [DevOps Engineering Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
+- 🌱 &nbsp;Graduate of [DevOps Engineering Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
 - 🇹🇷🇺🇸🇵🇱 Contact me with those language 
 - 🇩🇪 Currently learning...
 - <img align="absmiddle" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"></a>AWS Enthusiast </br></br>
