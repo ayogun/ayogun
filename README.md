@@ -29,7 +29,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 
 <!-- BLOG-POST-LIST:START -->
 - [Replace GitLab Shared Runners With an AWS EC2 Instance](https://medium.com/@ayogun/replace-gitlab-shared-runners-with-an-aws-ec2-instance-98dda62df1c2?source=rss-eda7d7339636------2)
-- [Deploy React App to S3 Bucket with GitLab Pipeline](https://medium.com/@ayogun/deploy-react-app-to-s3-bucket-with-gitlab-pipeline-1cdc4e70aa14?source=rss-eda7d7339636------2)
+- [Deploy React App to AWS S3 Bucket with GitLab Pipeline](https://medium.com/@ayogun/deploy-react-app-to-s3-bucket-with-gitlab-pipeline-1cdc4e70aa14?source=rss-eda7d7339636------2)
 - [AWS ECS in a Nutshell](https://medium.com/@ayogun/aws-ecs-in-a-nutshell-1602a852fbc7?source=rss-eda7d7339636------2)
 - [Getting Started With Kubernetes](https://medium.com/@ayogun/getting-started-with-kubernetes-3146ff7df975?source=rss-eda7d7339636------2)
 - [Vagrant in a Nutshell](https://medium.com/@ayogun/vagrant-in-a-nutshell-27efdf0dba2a?source=rss-eda7d7339636------2)
