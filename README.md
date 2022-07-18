@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace GitLab Shared Runners With an AWS EC2 Instance](https://medium.com/@ayogun/replace-gitlab-shared-runners-with-an-aws-ec2-instance-98dda62df1c2?source=rss-eda7d7339636------2)
 - [Deploy React App to S3 Bucket with GitLab Pipeline](https://medium.com/@ayogun/deploy-react-app-to-s3-bucket-with-gitlab-pipeline-1cdc4e70aa14?source=rss-eda7d7339636------2)
 - [AWS ECS in a Nutshell](https://medium.com/@ayogun/aws-ecs-in-a-nutshell-1602a852fbc7?source=rss-eda7d7339636------2)
 - [Getting Started With Kubernetes](https://medium.com/@ayogun/getting-started-with-kubernetes-3146ff7df975?source=rss-eda7d7339636------2)
 - [Vagrant in a Nutshell](https://medium.com/@ayogun/vagrant-in-a-nutshell-27efdf0dba2a?source=rss-eda7d7339636------2)
-- [Why You Should Learn C/C++ in 2022?](https://medium.com/@ayogun/why-you-should-learn-c-c-in-2022-abd3e7680d3?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
