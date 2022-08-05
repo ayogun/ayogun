@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CI/CD Pipeline on GitLab — 101](https://medium.com/@ayogun/build-a-ci-cd-pipeline-on-gitlab-101-b8f3c4892389?source=rss-eda7d7339636------2)
 - [Rect Uygulaması Kubernetes ile Nasıl Deploy Edilir ?](https://medium.com/@ayogun/rect-uygulamas%C4%B1-kubernetes-ile-nas%C4%B1l-deploy-edilir-1f7ec737b87f?source=rss-eda7d7339636------2)
 - [Deploy a React Application to Kubernetes](https://medium.com/@ayogun/deploy-a-react-application-to-kubernetes-65d1e03c1a56?source=rss-eda7d7339636------2)
 - [Replace GitLab Shared Runners With an AWS EC2 Instance](https://medium.com/@ayogun/replace-gitlab-shared-runners-with-an-aws-ec2-instance-98dda62df1c2?source=rss-eda7d7339636------2)
 - [Deploy React App to AWS S3 Bucket with GitLab Pipeline](https://medium.com/@ayogun/deploy-react-app-to-s3-bucket-with-gitlab-pipeline-1cdc4e70aa14?source=rss-eda7d7339636------2)
-- [AWS ECS in a Nutshell](https://medium.com/@ayogun/aws-ecs-in-a-nutshell-1602a852fbc7?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
