@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [How much durable AWS S3 is?](https://medium.com/@ayogun/how-much-durable-aws-s3-is-a3b2ce789c29?source=rss-eda7d7339636------2)
 - [Push Swap — A journey to find most efficient sorting algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97?source=rss-eda7d7339636------2)
 - [How to connect to the EC2 instance with SSH Client](https://medium.com/@ayogun/how-to-connect-to-the-ec2-instance-with-ssh-client-94840d136b03?source=rss-eda7d7339636------2)
 - [Build a CI/CD Pipeline on GitLab — 101](https://medium.com/@ayogun/build-a-ci-cd-pipeline-on-gitlab-101-b8f3c4892389?source=rss-eda7d7339636------2)
 - [Rect Uygulaması Kubernetes ile Nasıl Deploy Edilir ?](https://medium.com/@ayogun/rect-uygulamas%C4%B1-kubernetes-ile-nas%C4%B1l-deploy-edilir-1f7ec737b87f?source=rss-eda7d7339636------2)
-- [Deploy a React Application to Kubernetes](https://medium.com/@ayogun/deploy-a-react-application-to-kubernetes-65d1e03c1a56?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
