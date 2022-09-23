@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS EKS Monitoring](https://medium.com/@ayogun/aws-eks-monitoring-d94827a0c57f?source=rss-eda7d7339636------2)
 - [POSIX Thread — Pthread Library](https://medium.com/@ayogun/posix-thread-pthread-library-8915d867201f?source=rss-eda7d7339636------2)
 - [How durable is AWS S3 ?](https://medium.com/@ayogun/how-much-durable-aws-s3-is-a3b2ce789c29?source=rss-eda7d7339636------2)
 - [Push Swap — A journey to find most efficient sorting algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97?source=rss-eda7d7339636------2)
 - [How to connect to the EC2 instance with SSH Client](https://medium.com/@ayogun/how-to-connect-to-the-ec2-instance-with-ssh-client-94840d136b03?source=rss-eda7d7339636------2)
-- [Build a CI/CD Pipeline on GitLab — 101](https://medium.com/@ayogun/build-a-ci-cd-pipeline-on-gitlab-101-b8f3c4892389?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
