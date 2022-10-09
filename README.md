@@ -28,7 +28,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Properties of AWS S3 &lpar;Simple Storage Service&rpar;](https://medium.com/@ayogun/properties-of-aws-s3-simple-storage-service-1e2c98ad1cbf?source=rss-eda7d7339636------2)
+- [Properties of AWS S3 &lpar;Simple Storage Service&rpar;](https://awstip.com/properties-of-aws-s3-simple-storage-service-1e2c98ad1cbf?source=rss-eda7d7339636------2)
 - [AWS EKS Monitoring](https://blog.devops.dev/aws-eks-monitoring-d94827a0c57f?source=rss-eda7d7339636------2)
 - [POSIX Thread — Pthread Library](https://medium.com/@ayogun/posix-thread-pthread-library-8915d867201f?source=rss-eda7d7339636------2)
 - [How durable is AWS S3 ?](https://medium.com/@ayogun/how-much-durable-aws-s3-is-a3b2ce789c29?source=rss-eda7d7339636------2)
