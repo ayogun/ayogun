@@ -5,7 +5,7 @@
 This is the place where I backup my projects and break some stuff down :bowtie:
 - ⚙️&nbsp;BS Mechanical Engineer
 - 👨‍💻&nbsp;Software Developer & DevOps Engineer
-- 🐥&nbsp;Cadet at <a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
+- 🐥&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
 - 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 - 🌱 &nbsp;Graduate of [DevOps Engineer Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
 - 🇹🇷🇺🇸🇵🇱 Contact me with those language 
