@@ -29,7 +29,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EventBridge vs SNS vs SQS](https://medium.com/@ayogun/aws-eventbridge-vs-sns-vs-sqs-d9dff51af4b6?source=rss-eda7d7339636------2)
+- [AWS EventBridge vs SNS vs SQS](https://awstip.com/aws-eventbridge-vs-sns-vs-sqs-d9dff51af4b6?source=rss-eda7d7339636------2)
 - [What is difference between ALB and NLB in AWS?](https://awstip.com/what-is-difference-between-alb-and-nlb-in-aws-3ad746419ab2?source=rss-eda7d7339636------2)
 - [AWS Services: ECS vs EKS vs Fargate](https://awstip.com/aws-services-ecs-vs-eks-vs-fargate-5917d6825eac?source=rss-eda7d7339636------2)
 - [Properties of AWS S3 &lpar;Simple Storage Service&rpar;](https://awstip.com/properties-of-aws-s3-simple-storage-service-1e2c98ad1cbf?source=rss-eda7d7339636------2)
