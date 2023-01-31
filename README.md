@@ -30,7 +30,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 
 <!-- BLOG-POST-LIST:START -->
 - [Future Trends in Infrastructure as Code &lpar;IAC&rpar;](https://blog.devops.dev/future-trends-in-infrastructure-as-code-iac-bd6aded99d10?source=rss-eda7d7339636------2)
-- [Building Storage-First Applications with HTTP APIs](https://awstip.com/building-storage-first-applications-with-http-apis-f6ababa7e5be?source=rss-eda7d7339636------2)
+- [Building Storage-First Applications with HTTP APIs](https://medium.com/@ayogun/building-storage-first-applications-with-http-apis-f6ababa7e5be?source=rss-eda7d7339636------2)
 - [AWS EventBridge vs SNS vs SQS](https://awstip.com/aws-eventbridge-vs-sns-vs-sqs-d9dff51af4b6?source=rss-eda7d7339636------2)
 - [What is difference between ALB and NLB in AWS?](https://awstip.com/what-is-difference-between-alb-and-nlb-in-aws-3ad746419ab2?source=rss-eda7d7339636------2)
 - [AWS Services: ECS vs EKS vs Fargate](https://awstip.com/aws-services-ecs-vs-eks-vs-fargate-5917d6825eac?source=rss-eda7d7339636------2)
