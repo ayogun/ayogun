@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the key differences between AWS WAF, ACLs, and Security Groups to protect your cloud…](https://awstip.com/discover-the-key-differences-between-aws-waf-acls-and-security-groups-to-protect-your-cloud-86513d365378?source=rss-eda7d7339636------2)
 - [Master File I/O Operations with 42’s get_next_line Project](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5?source=rss-eda7d7339636------2)
 - [Battle of the Cloud Titans: AWS vs DigitalOcean — Who Comes Out on Top?](https://medium.com/@ayogun/battle-of-the-cloud-titans-aws-vs-digitalocean-who-comes-out-on-top-e5a4d7d1606c?source=rss-eda7d7339636------2)
 - [Future Trends in Infrastructure as Code &lpar;IAC&rpar;](https://blog.devops.dev/future-trends-in-infrastructure-as-code-iac-bd6aded99d10?source=rss-eda7d7339636------2)
 - [Building Storage-First Applications with HTTP APIs](https://medium.com/@ayogun/building-storage-first-applications-with-http-apis-f6ababa7e5be?source=rss-eda7d7339636------2)
-- [AWS EventBridge vs SNS vs SQS](https://awstip.com/aws-eventbridge-vs-sns-vs-sqs-d9dff51af4b6?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
