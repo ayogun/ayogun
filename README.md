@@ -28,10 +28,10 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [The DIY Cloud At Home](https://awstip.com/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
+- [The DIY Cloud At Home](https://medium.com/@ayogun/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
 - [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
 - [Byzantine Generals Problem](https://medium.com/@ayogun/byzantine-generals-problem-a47b33ef87fc?source=rss-eda7d7339636------2)
-- [Comparison of ELK vs Jaeger](https://blog.devops.dev/comparison-of-elk-vs-jaeger-b920c2a65327?source=rss-eda7d7339636------2)
+- [Comparison of ELK vs Jaeger](https://medium.com/@ayogun/comparison-of-elk-vs-jaeger-b920c2a65327?source=rss-eda7d7339636------2)
 - [I chose EC2 Storage over EBS despite it’s ephemeral —  Here’s Why…](https://awstip.com/i-chose-ec2-storage-over-ebs-despite-its-ephemeral-here-s-why-377f3280f5c2?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
