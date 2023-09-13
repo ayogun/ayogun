@@ -32,7 +32,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 - [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
 - [Byzantine Generals Problem](https://medium.com/@ayogun/byzantine-generals-problem-a47b33ef87fc?source=rss-eda7d7339636------2)
 - [Comparison of ELK vs Jaeger](https://medium.com/@ayogun/comparison-of-elk-vs-jaeger-b920c2a65327?source=rss-eda7d7339636------2)
-- [I chose EC2 Storage over EBS despite it’s ephemeral —  Here’s Why…](https://awstip.com/i-chose-ec2-storage-over-ebs-despite-its-ephemeral-here-s-why-377f3280f5c2?source=rss-eda7d7339636------2)
+- [I chose EC2 Storage over EBS despite it’s ephemeral —  Here’s Why…](https://medium.com/@ayogun/i-chose-ec2-storage-over-ebs-despite-its-ephemeral-here-s-why-377f3280f5c2?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
