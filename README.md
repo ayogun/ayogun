@@ -25,7 +25,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
   </p>
 </br>
 
-## 📕 &nbsp; **Latest Medium Blog Posts**
+## <img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width="32px"> &nbsp; **Latest Medium Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [The DIY Cloud At Home](https://medium.com/@ayogun/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
@@ -35,7 +35,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 - [I chose EC2 Storage over EBS despite it’s ephemeral —  Here’s Why…](https://medium.com/@ayogun/i-chose-ec2-storage-over-ebs-despite-its-ephemeral-here-s-why-377f3280f5c2?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📕 &nbsp; **Latest Dev.to Blog Posts**
+## <img src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
 
 <!-- DEVTO:START -->
 - [AWS Secrets Manager vs. Systems Manager Parameter Store - Choosing the Right Solution for Your Needs](https://dev.to/aws-builders/aws-secrets-manager-vs-systems-manager-parameter-store-choosing-the-right-solution-for-your-needs-42ed)
