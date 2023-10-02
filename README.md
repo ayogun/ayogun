@@ -28,11 +28,11 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## 📕 &nbsp; **Latest Medium Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Secrets Manager vs. Systems Manager Parameter Store - Choosing the Right Solution for Your Needs](https://dev.to/aws-builders/aws-secrets-manager-vs-systems-manager-parameter-store-choosing-the-right-solution-for-your-needs-42ed)
-- [The DIY Cloud At Home](https://dev.to/aws-builders/the-diy-cloud-at-home-4k0i)
 - [The DIY Cloud At Home](https://medium.com/@ayogun/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
-- [Let’s Create a Cron Job](https://dev.to/ayogun/lets-create-a-cron-job-28m3)
-- [Deploy React App to AWS S3 Bucket with GitLab Pipeline](https://dev.to/aws-builders/deploy-react-app-to-aws-s3-bucket-with-gitlab-pipeline-26j8)
+- [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
+- [Byzantine Generals Problem](https://medium.com/@ayogun/byzantine-generals-problem-a47b33ef87fc?source=rss-eda7d7339636------2)
+- [Comparison of ELK vs Jaeger](https://medium.com/@ayogun/comparison-of-elk-vs-jaeger-b920c2a65327?source=rss-eda7d7339636------2)
+- [I chose EC2 Storage over EBS despite it’s ephemeral —  Here’s Why…](https://medium.com/@ayogun/i-chose-ec2-storage-over-ebs-despite-its-ephemeral-here-s-why-377f3280f5c2?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 &nbsp; **Latest Dev.to Blog Posts**
