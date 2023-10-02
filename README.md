@@ -21,6 +21,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
   <a target="_blank" href="https://www.hackerrank.com/ayogun"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a target="_blank" href="https://medium.com/@ayogun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/yigitaliogun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
+  <a target="_blank" href="https://dev.to/ayogun"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
  <a target="_blank" href="mailto:yigitogun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </br>
