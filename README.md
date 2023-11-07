@@ -4,13 +4,11 @@
 
 This is the place where I backup my projects and break some stuff down :bowtie:
 - ⚙️&nbsp;BS Mechanical Engineer
-- 👨‍💻&nbsp;Software Developer & DevOps Engineer
+- 👨‍💻&nbsp;Software Developer & Cloud Engineer
 - 🐥&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
 - 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 - 🌱 &nbsp;Graduate of [DevOps Engineer Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
 - 🇹🇷🇺🇸🇵🇱 Contact me with those language 
-- 🇩🇪 Currently learning...
-- 💻 Writing a tech blog at [Medium](https://medium.com/@ayogun).
 - <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=ali%2Byiğit&cb-cards.q_operator=AND"><img align="absmiddle" src="https://emoji.gg/assets/emoji/8708-aws.png" width="64px" height="32px" alt="aws"><b>AWS Community Builder</b></a> </br></br>
 
 
