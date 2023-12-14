@@ -26,7 +26,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 ## <img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width="32px"> &nbsp; **Latest Medium Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Express One Zone and Directory Bucket](https://medium.com/@ayogun/s3-express-one-zone-and-directory-bucket-dcf3fec06156?source=rss-eda7d7339636------2)
+- [S3 Express One Zone and Directory Bucket](https://awstip.com/s3-express-one-zone-and-directory-bucket-dcf3fec06156?source=rss-eda7d7339636------2)
 - [The DIY Cloud At Home](https://medium.com/@ayogun/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
 - [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
 - [Byzantine Generals Problem](https://medium.com/@ayogun/byzantine-generals-problem-a47b33ef87fc?source=rss-eda7d7339636------2)
