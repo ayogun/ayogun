@@ -2,9 +2,9 @@
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
-This is the place where I backup my projects and break some stuff down :bowtie:
+
 - ⚙️&nbsp;BS Mechanical Engineer
-- 👨‍💻&nbsp;Software Developer & Cloud Engineer
+- 👨‍💻&nbsp;Cloud Engineer
 - 🐥&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
 - 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 - 🌱 &nbsp;Graduate of [DevOps Engineer Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
@@ -47,17 +47,6 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 
 
 
-  ## Languages & Tools 💪
-
-
-
- |AWS|C| C# | JS |Bash|.NET| SQL
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">|<img style="width: 200px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">|<img style="width: 200px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">
-
-| K8s | Git |Docker|Jenkins|Linux|CI/CD|Terraform
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">|<img style="width: 250px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 200px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png">|<img style="width: 200px" src="https://reztalkstech.com/wp-content/uploads/2021/01/og-image-8b3e4f7d-712x641.png">
 
 
 </details>
