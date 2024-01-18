@@ -23,7 +23,7 @@
   </p>
 </br>
 
-## <img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width="32px"> &nbsp; **Latest Medium Blog Posts**
+## <img src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/PNG/CMYK/Medium-Symbol-Black-CMYK%401x.png" width="32px"> &nbsp; **Latest Medium Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [IDE Extension for AWS Application Composer](https://medium.com/@ayogun/ide-extension-for-aws-application-composer-01431e596386?source=rss-eda7d7339636------2)
@@ -33,7 +33,7 @@
 - [Byzantine Generals Problem](https://medium.com/@ayogun/byzantine-generals-problem-a47b33ef87fc?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
+## <img src="https://camo.githubusercontent.com/2fef0634e1fdfcd951def8e051949370f187d69d1e948713fec2902c4104fe6b/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
 
 <!-- DEVTO:START -->
 - [IDE Extension for AWS Application Composer](https://dev.to/aws-builders/ide-extension-for-aws-application-composer-3k3a)
