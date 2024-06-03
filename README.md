@@ -36,11 +36,11 @@
 ## <img src="https://camo.githubusercontent.com/2fef0634e1fdfcd951def8e051949370f187d69d1e948713fec2902c4104fe6b/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
 
 <!-- DEVTO:START -->
+- [Step by Step Troubleshooting WAFv2 - With Pictures](https://dev.to/aws-builders/step-by-step-troubleshooting-wafv2-with-pictures-4hnp)
 - [IDE Extension for AWS Application Composer](https://dev.to/aws-builders/ide-extension-for-aws-application-composer-3k3a)
 - [AWS ECS - Spot Instance Draining vs Fargate Spot](https://dev.to/aws-builders/aws-ecs-spot-instance-draining-vs-fargate-spot-3kbj)
 - [AWS Secrets Manager vs. Systems Manager Parameter Store - Choosing the Right Solution for Your Needs](https://dev.to/aws-builders/aws-secrets-manager-vs-systems-manager-parameter-store-choosing-the-right-solution-for-your-needs-42ed)
 - [The DIY Cloud At Home](https://dev.to/aws-builders/the-diy-cloud-at-home-4k0i)
-- [Let’s Create a Cron Job](https://dev.to/ayogun/lets-create-a-cron-job-28m3)
 <!-- DEVTO:END -->
 
 </br>
