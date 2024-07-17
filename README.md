@@ -5,7 +5,7 @@
 
 - ⚙️&nbsp;BS Mechanical Engineer
 - 👨‍💻&nbsp;Cloud Engineer
-- 🐥&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - intra: <b>yogun</b>
+- 🐥&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbron</a> - *dropout*
 - 🚀&nbsp;Member of Bootcamp Acceleration Program at <a target="_blank" href="https://www.patika.dev">Patika.dev</a>
 - 🌱 &nbsp;Graduate of [DevOps Engineer Bootcamp](https://www.patika.dev/bootcamp/protein-devops-engineer-bootcamp) organized by [Patika](https://www.patika.dev) and sponsored by [Protein](https://protein.tech)
 - 🇹🇷🇺🇸🇵🇱 Contact me with those language 
