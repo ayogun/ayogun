@@ -33,7 +33,7 @@
 - [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src="https://camo.githubusercontent.com/2fef0634e1fdfcd951def8e051949370f187d69d1e948713fec2902c4104fe6b/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
+## <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
 
 <!-- DEVTO:START -->
 - [Step by Step Troubleshooting WAFv2 - With Pictures](https://dev.to/aws-builders/step-by-step-troubleshooting-wafv2-with-pictures-4hnp)
