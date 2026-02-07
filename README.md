@@ -26,11 +26,11 @@
 ## <img src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/PNG/CMYK/Medium-Symbol-Black-CMYK%401x.png" width="32px"> &nbsp; **Latest Medium Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [From YAML to Dialogue: 5 Takeaways from IaCConf 2026’s AI Spotlight](https://medium.com/@ayogun/from-yaml-to-dialogue-5-surprising-takeaways-from-iacconf-2026s-ai-spotlight-96d020c1e3ad?source=rss-eda7d7339636------2)
 - [Product Authentication Platform for ETSY on AWS](https://medium.com/@ayogun/product-authentication-platform-for-etsy-on-aws-8d408e157713?source=rss-eda7d7339636------2)
 - [IDE Extension for AWS Application Composer](https://medium.com/@ayogun/ide-extension-for-aws-application-composer-01431e596386?source=rss-eda7d7339636------2)
 - [S3 Express One Zone and Directory Bucket](https://awstip.com/s3-express-one-zone-and-directory-bucket-dcf3fec06156?source=rss-eda7d7339636------2)
 - [The DIY Cloud At Home](https://medium.com/@ayogun/the-diy-cloud-at-home-b8a0d1e6d6e9?source=rss-eda7d7339636------2)
-- [What Byzantine Generals Teach Us About AWS SQS](https://awstip.com/what-byzantine-generals-teach-us-about-aws-sqs-8122230072a7?source=rss-eda7d7339636------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="32px"> &nbsp; **Latest Dev.to Blog Posts**
